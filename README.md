@@ -1,4 +1,4 @@
-# OpenAI-chat-completions-Colaboratory-Sample
+# OpenAI-chat-api-simple-Colaboratory-Sample
 Colaboratory上でChatGPTのAPIをお試しするサンプルです。<br>
 テキスト入力と画像入力を試しています。<br>
 モデルは「gpt-5-mini」を指定しています（2025年8月21日時点）<br><br>
@@ -11,7 +11,7 @@ Colaboratoryでノートブックを開き、上から順に実行してくだ�
 実行前にシークレットタブで「OPENAI_API_KEY」を設定してください。
 
 # License 
-OpenAI-chat-completions-Colaboratory-Sample is under [Apache-2.0 license](LICENSE).
+OpenAI-chat-api-simple-Colaboratory-Sample-Sample is under [Apache-2.0 license](LICENSE).
 
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
