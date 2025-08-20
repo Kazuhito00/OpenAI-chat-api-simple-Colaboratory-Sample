@@ -6,7 +6,12 @@ Colaboratory上でChatGPTのAPIをお試しするサンプルです。<br>
 
 
 # Usage
+* Chat Completions<br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/OpenAI-chat-api-simple-Colaboratory-Sample/blob/main/OpenAI-chat-completions-Colaboratory-Sample.ipynb)<br>
+Colaboratoryでノートブックを開き、上から順に実行してください。<br>
+実行前にシークレットタブで「OPENAI_API_KEY」を設定してください。
+* Resposes API<br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/OpenAI-chat-api-simple-Colaboratory-Sample/blob/main/OpenAI-Responses-API-Colaboratory-Sample.ipynb)<br>
 Colaboratoryでノートブックを開き、上から順に実行してください。<br>
 実行前にシークレットタブで「OPENAI_API_KEY」を設定してください。
 
