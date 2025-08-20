@@ -14,6 +14,10 @@ Colaboratoryでノートブックを開き、上から順に実行してくだ�
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/OpenAI-chat-api-simple-Colaboratory-Sample/blob/main/OpenAI-Responses-API-Colaboratory-Sample.ipynb)<br>
 Colaboratoryでノートブックを開き、上から順に実行してください。<br>
 実行前にシークレットタブで「OPENAI_API_KEY」を設定してください。
+* Images Edit<br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/OpenAI-chat-api-simple-Colaboratory-Sample/blob/main/OpenAI-images-edit-Colaboratory-Sample.ipynb)<br>
+Colaboratoryでノートブックを開き、上から順に実行してください。<br>
+実行前にシークレットタブで「OPENAI_API_KEY」を設定してください。
 
 # License 
 OpenAI-chat-api-simple-Colaboratory-Sample-Sample is under [Apache-2.0 license](LICENSE).
